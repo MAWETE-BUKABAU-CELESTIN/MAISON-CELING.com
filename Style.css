@@ -1,9 +1,9 @@
-body {
-  background-image: url("images/fond.jpg");
+body{
+background-image: url("images/fond.jpg");
   background-size: cover;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-}
+  background-position: center;
+} 
+
 /* Styles généraux */
 body {
   font-family: Arial, sans-serif;
